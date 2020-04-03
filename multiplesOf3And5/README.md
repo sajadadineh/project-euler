@@ -1,1 +1,1 @@
-[problem one](https://projecteuler.net/problem=1)
+Description of the [problem one](https://projecteuler.net/problem=1)
