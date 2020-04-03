@@ -15,4 +15,5 @@ int main(){
         twoNumber = newNumber;
     }
     cout<<sum<<endl;
+    return 0;
 }
