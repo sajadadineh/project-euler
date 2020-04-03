@@ -2,7 +2,7 @@
 
 ### Description
 
-I do projects on the [euler](https://projecteuler.net/archives) site to learn the language of C++
+To learn the C ++ language, I do projects on the [euler site](https://projecteuler.net/archives) and put the answers in this repository.
 
 ## How to use it?
 
