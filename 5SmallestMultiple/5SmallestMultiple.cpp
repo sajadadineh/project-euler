@@ -2,6 +2,7 @@
 using namespace std;
 
 int main(){
+	cout<<"Please wait 10 seconds"<<endl;
 	long i = 1;
 	while (true){
 		int answerDivision = 0;

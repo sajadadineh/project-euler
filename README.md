@@ -12,6 +12,6 @@ To learn the C ++ language, I do projects on the [euler site](https://projecteul
 
 3.Move to the desired directory
 
-4.Run by`c++ 'program'`
+4.Run by `c++ 'program'`
 
-5.After this run, the program will give you an object and you must run that object `./a.out`
+5.After, run this `./a.out`
