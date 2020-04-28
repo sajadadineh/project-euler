@@ -12,6 +12,4 @@ To learn the C ++ language, I do projects on the [euler site](https://projecteul
 
 3.Move to the desired directory
 
-4.Run by `c++ 'program'`
-
-5.After, run this `./a.out`
+4.Run by `c++ 'program' && ./a.out`
