@@ -25,18 +25,22 @@ void makeArray(){
 }
 
 int main(){
-        int maxDigit;
-        int currentDigit;
+	long int maxDigit;
+        long int currentDigit;
         vector <int> ta;
 
 	makeArray();
 
-        for (int i = 0; i < digitsArray.size(); i++){
-                for (int j = 0+i; j < 4+i; j++){
+        for (long int i = 0; i < digitsArray.size(); i++){
+                for (long int j = 0+i; j < 13+i; j++){
                         ta.push_back(digitsArray[j]);
                 }
-                currentDigit = accumulate(ta.begin(),ta.end(),1,multiplies<int>());
-                ta.clear();
+                long int pro = 1;
+                for (int x = 0; x < ta.size(); x++){
+                        pro = pro * ta[x];
+                }
+                currentDigit = pro;
+		ta.clear();
                 if (currentDigit > maxDigit){
                         maxDigit = currentDigit;
                 }
