@@ -13,6 +13,3 @@ while(oneNumber < 4000000){
 }
 
 console.log(sum);
-
-
-
