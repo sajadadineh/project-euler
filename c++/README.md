@@ -2,7 +2,7 @@
 
 1.Install C++ compiler
 
-2.Clone the project `git clone https://github.com/sajadadineh/project-euler.git`
+2.Clone the project `git clone https://gitlab.com/sajadadineh/project-euler.git`
 
 3.Move to the desired directory
 
